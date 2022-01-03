@@ -1,0 +1,20 @@
+{
+  "name": "larvamatch-web3",
+  "version": "1.0.0",
+  "description": "The web3 interface for larvamatch.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "everythingbiig.eth",
+  "license": "ISC",
+  "dependencies": {
+    "@drizzle/store": "^1.5.3"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}

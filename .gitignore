@@ -1,0 +1,7 @@
+# I imported the larvalads contract to my local dev to mess around
+contracts/LarvaLads.sol
+migrations/3_larvalads_migration.js
+
+# node
+node_modules/
+build/
